@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+.small-flag{
+   width: 50px; 
+}
+
+.mr-3{
+   margin-right: 3px;
+}
+
+.mt-3{
+   margin-top: 3px;
+}
